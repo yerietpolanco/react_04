@@ -1,0 +1,17 @@
+.movies-container {
+  max-width: 1440px;
+}
+
+.movie-card {
+  width: 15rem;
+}
+
+.app-container {
+  padding-top: 150px;
+}
+
+.search-container {
+  width: 100%;
+  max-width: 1265px;
+  margin-bottom: 50px;
+}
